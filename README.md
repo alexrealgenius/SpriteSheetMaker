@@ -184,8 +184,14 @@ sprite_resolution = 128
 
 the script automatically determines an appropriate square grid and creates a Blender scene ready to render.
 
+<br>
+<h1><b>Author</b></h1>
+
+[Alexander Troshin](https://github.com/alexrealgenius)
+
+[![GitHub](https://img.shields.io/badge/GitHub-alexrealgenius-181717?style=for-the-badge&logo=github)](https://github.com/alexrealgenius)
 
 
-## Author
 
-Alexander Troshin
+
+<hr>
