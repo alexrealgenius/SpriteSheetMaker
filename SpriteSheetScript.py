@@ -6,7 +6,7 @@ import mathutils
 folder_path = r""
 collection_name = "LoadedSprites"
 
-use_custom_grid = True  # Set to True to use custom dimensions, False for auto square
+use_custom_grid = False  # Set to True to use custom dimensions, False for auto square
 grid_size_x = 3         # Custom horizontal tile columns
 grid_size_y = 3        # Custom vertical tile rows
 # ---------------------------------------------
