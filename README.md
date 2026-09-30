@@ -2,6 +2,9 @@
 
 A Blender Python script that automatically imports valid PNG images from a folder, arranges them into a centered sprite grid, creates materials for each sprite, and configures an orthographic camera for rendering the completed sprite sheet.
 
+>[!TIP]
+> Functions as of Blender 5.2
+
 ## Features
 
 * Automatically detects valid PNG files using their actual PNG header
